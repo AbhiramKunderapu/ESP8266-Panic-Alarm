@@ -1,0 +1,18 @@
+# Exclude sensitive credentials
+panic_Alarm.h
+
+# Arduino build files
+*.elf
+*.bin
+*.hex
+*.eep
+*.dmp
+*.map
+*.out
+
+# VSCode settings
+.vscode/
+
+# OS generated files
+.DS_Store
+Thumbs.db 
